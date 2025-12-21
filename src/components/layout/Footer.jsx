@@ -13,10 +13,10 @@ const Footer = () => {
             <Link href="/" className="flex items-center space-x-2">
               <div className="relative h-8 w-8 overflow-hidden rounded-md">
                 <Image
-                  src="/logo_dark.jpg"
+                  src="/favicon.jpg"
                   alt="ByteWave Logo"
                   fill
-                  className="object-contain dark:invert"
+                  className="object-contain"
                 />
               </div>
               <span className="text-xl font-bold tracking-tight">ByteWave</span>
