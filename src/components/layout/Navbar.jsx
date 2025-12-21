@@ -30,7 +30,7 @@ const Navbar = () => {
             <Link href="/" className="flex items-center space-x-2">
               <div className="relative h-10 w-10 overflow-hidden rounded-md">
                 <Image
-                  src={theme === "dark" ? "/logo_white.jpg" : "/logo_dark.jpg"}
+                  src="/favicon.jpg"
                   alt="ByteWave Logo"
                   fill
                   className="object-contain"
