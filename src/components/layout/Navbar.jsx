@@ -57,7 +57,7 @@ const Navbar = () => {
               ))}
               <button
                 onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
-                className="rounded-md p-2 hover:bg-accent/10 transition-colors"
+                className="rounded-md p-2 pt-2.5 hover:bg-accent/10 transition-colors"
                 aria-label="Toggle theme"
               >
                 {mounted && (theme === "dark" ? <Sun size={20} /> : <Moon size={20} />)}
