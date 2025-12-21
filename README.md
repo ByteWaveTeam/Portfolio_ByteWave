@@ -1,6 +1,7 @@
 # <img src="./public/favicon.jpg" width="40" height="40" valign="middle"> ByteWave | Premium Software Development Collective
 
 [![Project Documentation](https://img.shields.io/badge/View-Project_Documentation-blue?style=for-the-badge)](./documentation.md)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://bytewave.samkiel.dev/)
 
 ByteWave is a production-ready, high-performance portfolio application built with Next.js 16.1 and JavaScript (JSX). This repository represents the digital identity of **ByteWave**, a global software development team specialized in fast, accessible, and high-quality web and mobile application development.
 
