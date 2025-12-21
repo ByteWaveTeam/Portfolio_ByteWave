@@ -52,12 +52,9 @@ Roles and tasks assigned by **[@samkiell](https://github.com/samkiell)**.
   - **Assigned Tasks:**
     - **Development of `/contact` page:** Building the functional project inquiry form with validation and email service integration.
 
-- **[@Dave](https://github.com/Dave)** (Dave)
-  - **Assigned Tasks:**
-    - **Development of `/about` page:** Crafting the global collective story, mission, and "Why ByteWave" narrative.
-
 - **[@Robotinic17](https://github.com/Robotinic17)** (Robotinic17)
   - **Assigned Tasks:**
+    - **Development of `/about` page:** Crafting the global collective story, mission, and "Why ByteWave" narrative.
     - **SEO & Performance Optimization:** Ensuring all pages follow best practices for search engines and loading speeds.
     - **Analytics Integration:** Setting up tracking for landing page engagement.
 
